@@ -1,0 +1,6 @@
+projectKey=junittestcase
+serverUrl=http://localhost:9008
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9008/dashboard/index/junittestcase
+ceTaskId=AXLagoexA70miXyfoH7u
+ceTaskUrl=http://localhost:9008/api/ce/task?id=AXLagoexA70miXyfoH7u
